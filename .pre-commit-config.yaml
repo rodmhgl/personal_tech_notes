@@ -14,3 +14,8 @@ repos:
       - id: no-commit-to-branch
       - id: pretty-format-json
       - id: trailing-whitespace
+
+  - repo: https://github.com/markdownlint/markdownlint
+    rev: v0.23.1
+    hooks:
+      - id: markdownlint_docker
