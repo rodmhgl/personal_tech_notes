@@ -2,11 +2,11 @@
 
 The speaker at Platform Con discusses transitioning fragile internal platforms to antifragile ones by demonstrating their business value and understanding economic cycles.
 
-# ORIGINAL TALK
+## ORIGINAL TALK
 
-[From Fragile To Antifragile Internal Platforms - Manuel Pais](https://www.youtube.com/watch?v=i5Yv3bNRXWg)
+[From Fragile To Antifragile Internal Platforms - Manuel Pais](https://www.youtube.com/watch?v=i5Yv3bNRXWg).
 
-# IDEAS
+## IDEAS
 
 - Internal platforms often have clear costs but unclear revenue, unlike end products.
 - Platforms should reduce cognitive load for streamlined teams, despite challenges in measuring it.
@@ -35,7 +35,7 @@ The speaker at Platform Con discusses transitioning fragile internal platforms t
 - Strategic value across stakeholders is key to platform success.
 - Training and resources can guide building trust and measuring platform value.
 
-# INSIGHTS
+## INSIGHTS
 
 - Platforms must articulate clear business value to thrive amid economic cycles and organizational challenges.
 - Reducing cognitive load is key, though measuring it remains elusive; new tools aim to bridge this gap.
@@ -48,7 +48,7 @@ The speaker at Platform Con discusses transitioning fragile internal platforms t
 - Internal and external confidence in platforms require different metrics; both are essential for resilience.
 - Sharing success stories builds organizational awareness and appreciation of platform value.
 
-# QUOTES
+## QUOTES
 
 - "Platforms are often fragile and the first victims in times of trouble or cost concerns."
 - "We need to clarify the value of the platform, whether measured in revenue or something else."
@@ -70,7 +70,7 @@ The speaker at Platform Con discusses transitioning fragile internal platforms t
 - "Measure the value you're generating with a platform."
 - "Understand the business cycles and incentives for platform funding."
 
-# HABITS
+## HABITS
 
 - Consistently articulate the platform's value to stakeholders to ensure organizational support.
 - Prioritize reducing cognitive load for teams, even if direct measurement is challenging.
@@ -88,7 +88,7 @@ The speaker at Platform Con discusses transitioning fragile internal platforms t
 - Regularly update and refine platform metrics to reflect business impact.
 - Balance platform development with cost control and profitability metrics.
 
-# FACTS
+## FACTS
 
 - Platforms have clear costs but often unclear revenue compared to end products.
 - Reducing cognitive load is a primary platform goal but is hard to measure.
@@ -111,7 +111,7 @@ The speaker at Platform Con discusses transitioning fragile internal platforms t
 - Measure platform value to justify its existence and future investment.
 - Understand business cycles and incentives for platform funding.
 
-# REFERENCES
+## REFERENCES
 
 - "Antifragile" by Nassim Taleb
 - Adidas's platform engineering approach
@@ -120,11 +120,11 @@ The speaker at Platform Con discusses transitioning fragile internal platforms t
 - "Measuring the value of our internal developer platform investments" paper
 - int.com platform engineering resources
 
-# ONE-SENTENCE TAKEAWAY
+## ONE-SENTENCE TAKEAWAY
 
 Platforms must articulate clear business value and understand economic cycles to ensure sustainable success.
 
-# RECOMMENDATIONS
+## RECOMMENDATIONS
 
 - Focus on demonstrating platform value to stakeholders for organizational support and resilience.
 - Prioritize reducing cognitive load for streamlined team efficiency and productivity.

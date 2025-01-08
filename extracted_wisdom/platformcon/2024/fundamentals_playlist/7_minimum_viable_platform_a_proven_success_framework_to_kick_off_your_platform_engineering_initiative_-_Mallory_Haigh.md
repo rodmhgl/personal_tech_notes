@@ -1,11 +1,13 @@
 # SUMMARY
+
 Mallorie, Director of Customer Success at Humanite Tech, discusses the Minimum Viable Platform (MVP) framework and its implementation.
 
-# ORIGINAL TALK
+## ORIGINAL TALK
 
-[Minimum Viable : A Proven Success Framework To Kick Off Your Platform Engineering Initiative - Mallory Haigh](https://www.youtube.com/watch?v=cZClrWnyUdg)
+[Minimum Viable : A Proven Success Framework To Kick Off Your Platform Engineering Initiative - Mallory Haigh](https://www.youtube.com/watch?v=cZClrWnyUdg).
 
-# IDEAS
+## IDEAS
+
 - Minimum viable platforms (MVPs) quickly demonstrate platform engineering initiatives' value using a structured, outcome-focused approach.
 - Identify a pioneering developer team to lead innovation and build the minimum viable platform around them.
 - MVPs exclude production environments initially, focusing on nonproduction requirements for pioneering teams.
@@ -37,7 +39,8 @@ Mallorie, Director of Customer Success at Humanite Tech, discusses the Minimum V
 - Platform engineering philosophy encourages doing new things to achieve unprecedented results.
 - MVPs enable organizations to enter new spaces with reduced risk and increased problem-solving capabilities.
 
-# INSIGHTS
+## INSIGHTS
+
 - MVPs provide a structured, low-risk approach to implementing platform engineering initiatives effectively.
 - Engaging diverse stakeholders ensures platform engineering aligns with broader organizational goals.
 - Continuous improvement and iteration are essential for successful platform engineering implementation.
@@ -49,7 +52,8 @@ Mallorie, Director of Customer Success at Humanite Tech, discusses the Minimum V
 - Prioritizing user needs and productivity impact leads to more effective platform solutions.
 - Platform engineering philosophy offers a new way to solve organizational tech challenges.
 
-# QUOTES
+## QUOTES
+
 - "MVPs are a way to show the value of your platform engineering initiative very quickly."
 - "Identify a pioneering developer team that can lead the way on Innovation."
 - "We don't touch production environments inside of MVPs and it's very important to understand that."
@@ -66,7 +70,8 @@ Mallorie, Director of Customer Success at Humanite Tech, discusses the Minimum V
 - "Successful adoption requires a model for moving towards full-scale platform integration."
 - "Platform engineering encourages doing new things to achieve unprecedented results."
 
-# HABITS
+## HABITS
+
 - Engage influential stakeholders like security, data, and finance early in the process.
 - Keep MVPs representative, repeatable, and iterative for effective platform development.
 - Focus on nonproduction requirements and exclude production environments initially.
@@ -78,7 +83,8 @@ Mallorie, Director of Customer Success at Humanite Tech, discusses the Minimum V
 - Adopt a cyclical process to evolve platforms based on feedback and needs.
 - Communicate internally to explain the benefits and goals of platform engineering.
 
-# FACTS
+## FACTS
+
 - MVPs demonstrate platform engineering initiatives' value quickly using structured, outcome-focused approaches.
 - Pioneering developer teams lead innovation and build minimum viable platforms around them.
 - MVPs initially exclude production environments, focusing on nonproduction requirements for pioneering teams.
@@ -90,7 +96,8 @@ Mallorie, Director of Customer Success at Humanite Tech, discusses the Minimum V
 - Developer experience encompasses broader stakeholder considerations, not just developers.
 - Platform engineering philosophy offers a low-risk entry into solving organizational tech challenges.
 
-# REFERENCES
+## REFERENCES
+
 - Humanite Tech
 - Platform engineering philosophy
 - Minimum Viable Platform (MVP) framework
@@ -98,10 +105,12 @@ Mallorie, Director of Customer Success at Humanite Tech, discusses the Minimum V
 - Proof of Concept
 - Production Readiness
 
-# ONE-SENTENCE TAKEAWAY
+## ONE-SENTENCE TAKEAWAY
+
 Embrace platform engineering's structured, iterative approach to quickly demonstrate value and achieve organizational goals effectively.
 
-# RECOMMENDATIONS
+## RECOMMENDATIONS
+
 - Use MVPs to quickly demonstrate platform engineering initiatives' value with structured, outcome-focused approaches.
 - Engage pioneering developer teams to lead innovation and build around them.
 - Focus on nonproduction requirements and exclude production environments initially.

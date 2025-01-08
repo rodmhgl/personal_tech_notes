@@ -2,11 +2,11 @@
 
 Kelsey discusses platform engineering, the role of developers, standardization, and the future of cloud and on-premises systems, highlighting industry shifts and challenges.
 
-# ORIGINAL TALK
+## ORIGINAL TALK
 
-[Real Talk Platform Engineering With Kelsey Hightower And Kaspar Von Grunberg](https://www.youtube.com/watch?v=puxNUkbrCVk)
+[Real Talk Platform Engineering With Kelsey Hightower And Kaspar Von Grunberg](https://www.youtube.com/watch?v=puxNUkbrCVk).
 
-# IDEAS
+## IDEAS
 
 - Every infrastructure team desires a custom-built platform to suit their unique organizational needs.
 - Platform engineering fills gaps between off-the-shelf solutions and specific company requirements.
@@ -42,7 +42,7 @@ Kelsey discusses platform engineering, the role of developers, standardization, 
 - Future cloud and on-premise systems might become indistinguishable due to standardization.
 - The evolution of platform engineering highlights the need for flexible, user-centered systems.
 
-# INSIGHTS
+## INSIGHTS
 
 - Platform engineering bridges the gap between available technology and unique organizational needs.
 - Overstandardization without full scenario understanding can hinder innovation and adaptability.
@@ -55,7 +55,7 @@ Kelsey discusses platform engineering, the role of developers, standardization, 
 - Automation should redirect focus to solving previously unaddressable challenges and innovations.
 - Embracing change and innovation leads to new opportunities and societal advancements.
 
-# QUOTES
+## QUOTES
 
 - "Every infrastructure team wants to have a platform as a service but it has to be rolled by themselves."
 - "Platform engineering is the foundation for all the other stuff that we do."
@@ -78,7 +78,7 @@ Kelsey discusses platform engineering, the role of developers, standardization, 
 - "Automation should lead to exploring previously unattainable innovations and challenges."
 - "A platform surface area can only be so large because you need a common Tech denominator."
 
-# HABITS
+## HABITS
 
 - Observe and adapt continuously to the dynamic landscape of platform engineering.
 - Balance standardization with flexibility to accommodate diverse applications and scenarios.
@@ -96,7 +96,7 @@ Kelsey discusses platform engineering, the role of developers, standardization, 
 - Continuously improve platform engineering practices through real-time adjustments.
 - Engage in collaborative discussions to gather diverse perspectives and insights.
 
-# FACTS
+## FACTS
 
 - Platform engineering interest has grown rapidly, indicating its foundational role in technology.
 - Developer self-service increases cognitive load, affecting other organizational roles.
@@ -114,7 +114,7 @@ Kelsey discusses platform engineering, the role of developers, standardization, 
 - Platform engineers should anticipate technological changes and user demands.
 - Real-time adjustments in platform engineering foster innovation and adaptability.
 
-# REFERENCES
+## REFERENCES
 
 - Google Cloud Platform
 - Heroku
@@ -134,11 +134,11 @@ Kelsey discusses platform engineering, the role of developers, standardization, 
 - DB2
 - Postgres
 
-# ONE-SENTENCE TAKEAWAY
+## ONE-SENTENCE TAKEAWAY
 
 Platform engineering bridges technology gaps, requiring adaptable systems and collaboration to meet evolving organizational needs.
 
-# RECOMMENDATIONS
+## RECOMMENDATIONS
 
 - Balance standardization with flexibility to accommodate diverse applications and scenarios effectively.
 - Avoid overstandardization to maintain room for innovation and adaptability in platform engineering.

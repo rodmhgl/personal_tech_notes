@@ -2,11 +2,11 @@
 
 The speaker at Platform Con 2024 introduces platform engineering, its significance, and offers guidance on becoming a platform engineer.
 
-# ORIGINAL TALK
+## ORIGINAL TALK
 
-[How To Become A Platform Engineer - Luca Galante](https://www.youtube.com/watch?v=f1zF6abmnzg)
+[How To Become A Platform Engineer - Luca Galante](https://www.youtube.com/watch?v=f1zF6abmnzg).
 
-# IDEAS
+## IDEAS
 
 - Platform engineering abstracts complexity, reducing cognitive load for developers in enterprise engineering organizations.
 - An internal developer platform (IDP) is the culmination of a platform engineering team's efforts.
@@ -29,7 +29,7 @@ The speaker at Platform Con 2024 introduces platform engineering, its significan
 - A community of over 20,000 people on Slack supports platform engineering discussions and collaboration.
 - Platform engineering combines technical skills with cultural and communication expertise for organizational transformation.
 
-# INSIGHTS
+## INSIGHTS
 
 - Platform engineering reduces complexity for developers, emphasizing culture over technology.
 - It commoditizes infrastructure, enabling seamless developer self-service.
@@ -42,7 +42,7 @@ The speaker at Platform Con 2024 introduces platform engineering, its significan
 - Platform engineering requires balancing abstraction with context for effective solutions.
 - It provides meaningful work opportunities, enhancing job satisfaction and organizational effectiveness.
 
-# QUOTES
+## QUOTES
 
 - "Platform engineering abstracts the complexity away from developers."
 - "Platform engineering has been taking the industry by storm."
@@ -60,7 +60,7 @@ The speaker at Platform Con 2024 introduces platform engineering, its significan
 - "Platform engineering is about solving org-level problems."
 - "The first official platform engineering fundamentals course offers hands-on experience."
 
-# HABITS
+## HABITS
 
 - Effective communication with stakeholders is essential for platform engineering success.
 - Emphasize culture and organizational transformation over technology selection.
@@ -78,7 +78,7 @@ The speaker at Platform Con 2024 introduces platform engineering, its significan
 - Leverage community resources and courses for continuous learning and growth.
 - Embrace a minimum viable platform approach for iterative development.
 
-# FACTS
+## FACTS
 
 - Platform engineering has seen significant growth in the software industry.
 - Industry analysts like Gartner highlight platform engineering as a top trend.
@@ -96,7 +96,7 @@ The speaker at Platform Con 2024 introduces platform engineering, its significan
 - A community of over 20,000 people on Slack supports platform engineering discussions.
 - Platform engineering combines technical skills with cultural and communication expertise.
 
-# REFERENCES
+## REFERENCES
 
 - internaldeveloperplatform.org
 - Team Topologies by Matthew Skelton and Manuel Pais
@@ -105,11 +105,11 @@ The speaker at Platform Con 2024 introduces platform engineering, its significan
 - CNCF working group's platform engineering maturity model
 - Platform Engineering Fundamentals Course
 
-# ONE-SENTENCE TAKEAWAY
+## ONE-SENTENCE TAKEAWAY
 
 Platform engineering transforms organizations by abstracting complexity, emphasizing culture, and enabling seamless developer self-service.
 
-# RECOMMENDATIONS
+## RECOMMENDATIONS
 
 - Emphasize culture and organizational transformation over purely technical considerations.
 - Conduct thorough user research to understand developer pain points.

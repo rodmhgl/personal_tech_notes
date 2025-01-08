@@ -1,11 +1,13 @@
 # SUMMARY
+
 Nathan Harvey discusses platform engineering from Doris's perspective, focusing on technology-driven organizations, measuring success, and continuous improvement using Dora metrics.
 
-# ORIGINAL TALK
+## ORIGINAL TALK
 
-[Mapping And Measuring Dora's Perspective On Platform Engineering - Nathen Harvey](https://www.youtube.com/watch?v=uVi8jfuCPw8)
+[Mapping And Measuring Dora's Perspective On Platform Engineering - Nathen Harvey](https://www.youtube.com/watch?v=uVi8jfuCPw8).
 
-# IDEAS
+## IDEAS
+
 - Organizations must optimize value delivery by investing in technology and technologists.
 - Technological investments should focus on enhancing user satisfaction and productivity.
 - A feedback loop is essential for tracking progress and making improvements.
@@ -31,7 +33,8 @@ Nathan Harvey discusses platform engineering from Doris's perspective, focusing 
 - Encouraging continuous integration and security practices improves team performance.
 - Rick Rubin emphasizes the importance of doing the work without shortcuts.
 
-# INSIGHTS
+## INSIGHTS
+
 - User-focused teams have significantly higher satisfaction, performance, and lower burnout.
 - Continuous learning and improvement are vital for long-term organizational success.
 - A feedback loop is essential for assessing progress and implementing changes.
@@ -43,7 +46,8 @@ Nathan Harvey discusses platform engineering from Doris's perspective, focusing 
 - Platforms should reduce friction and enhance the developer experience.
 - Software delivery performance predicts organizational performance and team well-being.
 
-# QUOTES
+## QUOTES
+
 - "You are a technologist working in a customer-focused organization."
 - "Technology enables great user experiences and drives real business value."
 - "We all feel the need to accelerate a lot of different things."
@@ -59,7 +63,8 @@ Nathan Harvey discusses platform engineering from Doris's perspective, focusing 
 - "Start by understanding your users and building out the capabilities that will improve their experience."
 - "Use this survey as a moment of reflection for how you and your team are doing today."
 
-# HABITS
+## HABITS
+
 - Focus on understanding user needs and improving their experience.
 - Regularly assess software delivery performance using the Dora quick check.
 - Engage in continuous learning and improvement within teams.
@@ -71,7 +76,8 @@ Nathan Harvey discusses platform engineering from Doris's perspective, focusing 
 - Reflect on current practices to identify areas for improvement.
 - Participate in industry surveys for insights and reflection.
 
-# FACTS
+## FACTS
+
 - User-focused teams have a 20% higher job satisfaction rate.
 - Platforms enhance developer experience and productivity within organizations.
 - Software delivery performance predicts organizational performance and team well-being.
@@ -83,17 +89,20 @@ Nathan Harvey discusses platform engineering from Doris's perspective, focusing 
 - Technical documentation is crucial for knowledge sharing within organizations.
 - Rick Rubin emphasizes the importance of doing the work without shortcuts.
 
-# REFERENCES
+## REFERENCES
+
 - Doris's perspective on platform engineering
 - CNCF white paper on measuring platform engineering success
 - Dora quick check for software delivery performance
 - Rick Rubin's philosophy on doing the work
 - Dora survey on high-performing teams and platform engineering
 
-# ONE-SENTENCE TAKEAWAY
+## ONE-SENTENCE TAKEAWAY
+
 Invest in continuous improvement and understanding user needs for successful platform engineering and organizational performance.
 
-# RECOMMENDATIONS
+## RECOMMENDATIONS
+
 - Invest in continuous improvement by building organizational muscles.
 - Focus on user satisfaction and productivity to drive efficiency.
 - Use feedback loops to track progress and implement changes.

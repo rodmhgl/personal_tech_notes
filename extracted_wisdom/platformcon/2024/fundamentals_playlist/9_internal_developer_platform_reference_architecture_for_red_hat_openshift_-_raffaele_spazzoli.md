@@ -1,11 +1,13 @@
 # SUMMARY
+
 Rafael Spazzoli discusses building an internal developer platform on OpenShift with Humanitec, focusing on improving developer experience.
 
-# ORIGINAL TALK
+## ORIGINAL TALK
 
-[Internal Developer Platform Reference Architecture For Red Hat Openshift - Raffaele Spazzoli](https://www.youtube.com/watch?v=U4f-ymzQkc4)
+[Internal Developer Platform Reference Architecture For Red Hat Openshift - Raffaele Spazzoli](https://www.youtube.com/watch?v=U4f-ymzQkc4).
 
-# IDEAS
+## IDEAS
+
 - Standardization and automation are essential for solving developer efficiency issues in large organizations.
 - Infrastructure teams must now prioritize the developer experience alongside building scalable infrastructure.
 - A seamless onboarding process simplifies and improves all subsequent developer platform processes.
@@ -22,7 +24,8 @@ Rafael Spazzoli discusses building an internal developer platform on OpenShift w
 - Resource definitions allow platform engineers to specify deployable building blocks for workloads.
 - Collaboration between Humanitec and Red Hat enables streamlined development platform creation.
 
-# INSIGHTS
+## INSIGHTS
+
 - Developer experience is crucial for innovation, cost management, and market speed in organizations.
 - Infrastructure teams must evolve into platform engineering teams focusing on developer ease.
 - Onboarding is pivotal; a seamless start simplifies all downstream developer platform activities.
@@ -34,7 +37,8 @@ Rafael Spazzoli discusses building an internal developer platform on OpenShift w
 - Developer portals consolidate tools and provide easy access via extensible plugin systems.
 - Ongoing updates to golden paths ensure developers stay current with organizational standards.
 
-# QUOTES
+## QUOTES
+
 - "The developer experience for our developers...is often not very good, sometimes really miserable."
 - "The answer is typically with more standardization and more automation."
 - "The flow of developing...should be easy, simple, and seamless for the developers."
@@ -51,7 +55,8 @@ Rafael Spazzoli discusses building an internal developer platform on OpenShift w
 - "Humanitec allows staying current with the standardization that your organization is deciding."
 - "We can enable the concept of golden path."
 
-# HABITS
+## HABITS
+
 - Prioritize developer experience to improve innovation, cost management, and market speed.
 - Focus on seamless onboarding to simplify downstream developer platform activities.
 - Balance local code execution speed with production-like environment accuracy.
@@ -62,7 +67,8 @@ Rafael Spazzoli discusses building an internal developer platform on OpenShift w
 - Ensure platform building integrates diverse tools and establishes scalable processes.
 - Apply Humanitec's glue logic for simplified platform integration and deployment.
 
-# FACTS
+## FACTS
+
 - Standardization and automation are crucial for solving developer efficiency issues.
 - Infrastructure teams now focus on developer experience alongside scalable infrastructure.
 - Onboarding is pivotal for simplifying all subsequent developer platform processes.
@@ -74,7 +80,8 @@ Rafael Spazzoli discusses building an internal developer platform on OpenShift w
 - Developer portals like Developer Hub centralize tools through plugin systems.
 - Humanitec's approach to golden paths allows ongoing updates and standardization improvements.
 
-# REFERENCES
+## REFERENCES
+
 - OpenShift
 - Humanitec
 - CNCF (Cloud Native Computing Foundation)
@@ -84,10 +91,12 @@ Rafael Spazzoli discusses building an internal developer platform on OpenShift w
 - Keycloak
 - Vault
 
-# ONE-SENTENCE TAKEAWAY
+## ONE-SENTENCE TAKEAWAY
+
 Building an internal developer platform requires prioritizing developer experience, standardization, automation, and effective tool integration.
 
-# RECOMMENDATIONS
+## RECOMMENDATIONS
+
 - Prioritize developer experience for improved innovation, cost management, and market speed.
 - Focus on seamless onboarding to simplify all downstream developer platform activities.
 - Balance fast local code execution with production-similar environments for productivity.
