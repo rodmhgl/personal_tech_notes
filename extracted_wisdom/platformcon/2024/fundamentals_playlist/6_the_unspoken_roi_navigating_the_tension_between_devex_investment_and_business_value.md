@@ -1,6 +1,10 @@
 # SUMMARY
 Vas Ragavan discusses the importance of investing in developer experience (DevX) for enhancing engineering effectiveness and business value.
 
+# ORIGINAL TALK
+
+[The Unspoken Roi: Navigating The Tension Between Devex Investment And Business Value](https://www.youtube.com/watch?v=7c5QygwDT8U)
+
 # IDEAS
 - Developer experience (DevX) combines tools, processes, people, and culture for effective software creation.
 - DevX focuses on enablement, not just extracting productivity, enhancing developer creativity and innovation.

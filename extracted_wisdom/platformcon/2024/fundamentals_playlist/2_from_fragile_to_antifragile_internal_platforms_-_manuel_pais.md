@@ -2,6 +2,10 @@
 
 The speaker at Platform Con discusses transitioning fragile internal platforms to antifragile ones by demonstrating their business value and understanding economic cycles.
 
+# ORIGINAL TALK
+
+[From Fragile To Antifragile Internal Platforms - Manuel Pais](https://www.youtube.com/watch?v=i5Yv3bNRXWg)
+
 # IDEAS
 
 - Internal platforms often have clear costs but unclear revenue, unlike end products.

@@ -2,6 +2,10 @@
 
 Kelsey discusses platform engineering, the role of developers, standardization, and the future of cloud and on-premises systems, highlighting industry shifts and challenges.
 
+# ORIGINAL TALK
+
+[Real Talk Platform Engineering With Kelsey Hightower And Kaspar Von Grunberg](https://www.youtube.com/watch?v=puxNUkbrCVk)
+
 # IDEAS
 
 - Every infrastructure team desires a custom-built platform to suit their unique organizational needs.

@@ -2,6 +2,10 @@
 
 The speaker at Platform Con 2024 introduces platform engineering, its significance, and offers guidance on becoming a platform engineer.
 
+# ORIGINAL TALK
+
+[How To Become A Platform Engineer - Luca Galante](https://www.youtube.com/watch?v=f1zF6abmnzg)
+
 # IDEAS
 
 - Platform engineering abstracts complexity, reducing cognitive load for developers in enterprise engineering organizations.

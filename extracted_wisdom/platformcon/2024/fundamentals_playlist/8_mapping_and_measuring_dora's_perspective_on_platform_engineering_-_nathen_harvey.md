@@ -1,6 +1,10 @@
 # SUMMARY
 Nathan Harvey discusses platform engineering from Doris's perspective, focusing on technology-driven organizations, measuring success, and continuous improvement using Dora metrics.
 
+# ORIGINAL TALK
+
+[Mapping And Measuring Dora's Perspective On Platform Engineering - Nathen Harvey](https://www.youtube.com/watch?v=uVi8jfuCPw8)
+
 # IDEAS
 - Organizations must optimize value delivery by investing in technology and technologists.
 - Technological investments should focus on enhancing user satisfaction and productivity.

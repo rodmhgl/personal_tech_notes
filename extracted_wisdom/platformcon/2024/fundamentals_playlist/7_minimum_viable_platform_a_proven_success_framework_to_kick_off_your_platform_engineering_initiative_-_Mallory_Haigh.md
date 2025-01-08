@@ -1,6 +1,10 @@
 # SUMMARY
 Mallorie, Director of Customer Success at Humanite Tech, discusses the Minimum Viable Platform (MVP) framework and its implementation.
 
+# ORIGINAL TALK
+
+[Minimum Viable : A Proven Success Framework To Kick Off Your Platform Engineering Initiative - Mallory Haigh](https://www.youtube.com/watch?v=cZClrWnyUdg)
+
 # IDEAS
 - Minimum viable platforms (MVPs) quickly demonstrate platform engineering initiatives' value using a structured, outcome-focused approach.
 - Identify a pioneering developer team to lead innovation and build the minimum viable platform around them.

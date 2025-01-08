@@ -1,6 +1,10 @@
 # SUMMARY
 Brian Finster discusses the importance and limitations of platforms in software development, emphasizing holistic strategies over mere technological upgrades.
 
+# ORIGINAL TALK
+
+[Why Platforms Don't Matter - Bryan Finster](https://www.youtube.com/watch?v=zk3IDsTkyK0)
+
 # IDEAS
 - Platforms have become essential for organizations to define standards for security and compliance.
 - Good platforms enable self-service and eliminate handoffs between teams, promoting ownership of quality processes.

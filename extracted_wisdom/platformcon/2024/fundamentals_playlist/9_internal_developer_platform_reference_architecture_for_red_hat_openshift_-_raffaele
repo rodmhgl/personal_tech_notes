@@ -2,6 +2,10 @@
 # SUMMARY
 Rafael Spazzoli discusses building an internal developer platform on OpenShift with Humanitec, focusing on improving developer experience.
 
+# ORIGINAL TALK
+
+[Internal Developer Platform Reference Architecture For Red Hat Openshift - Raffaele Spazzoli](https://www.youtube.com/watch?v=U4f-ymzQkc4)
+
 # IDEAS
 - Standardization and automation are essential for solving developer efficiency issues in large organizations.
 - Infrastructure teams must now prioritize the developer experience alongside building scalable infrastructure.
