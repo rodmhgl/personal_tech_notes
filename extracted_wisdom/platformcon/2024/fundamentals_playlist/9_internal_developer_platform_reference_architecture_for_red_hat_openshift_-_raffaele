@@ -1,4 +1,3 @@
-```markdown
 # SUMMARY
 Rafael Spazzoli discusses building an internal developer platform on OpenShift with Humanitec, focusing on improving developer experience.
 
@@ -104,4 +103,3 @@ Building an internal developer platform requires prioritizing developer experien
 - Embrace automation and self-servicing to achieve sustainable platform scalability.
 - Adopt golden paths to provide direct, standardized production routes for developers.
 - Leverage Humanitec's orchestration for efficient workload and resource management.
-```
