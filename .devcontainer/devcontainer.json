@@ -15,6 +15,8 @@
       "terragrunt": "latest"
     },
     "ghcr.io/git-saj/devcontainer-features/terratag:1": {},
+    "ghcr.io/devcontainers-extra/features/act:1": {},
+    "ghcr.io/larsnieuwenhuizen/features/jqyq": {},
     "ghcr.io/devcontainers-extra/features/infracost:1": {
       "version": "latest"
     },
@@ -32,13 +34,7 @@
       "installBicep": true,
       "version": "latest"
     },
-    "ghcr.io/eitsupi/devcontainer-features/jq-likes:2": {
-      "jqVersion": "latest",
-      "yqVersion": "latest",
-      "gojqVersion": "latest",
-      "xqVersion": "latest",
-      "jaqVersion": "latest"
-    }
+    "ghcr.io/devcontainers/features/docker-in-docker:2": {}
   },
   "customizations": {
     "vscode": {
@@ -84,7 +80,7 @@
   // Use 'forwardPorts' to make a list of ports inside the container available locally.
   // "forwardPorts": [],
   // Use 'postCreateCommand' to run commands after the container is created.
-  "postCreateCommand": "bash .devcontainer/scripts/install-precommit-dependencies.sh"
+  "postCreateCommand": "pre-commit install"
   // Configure tool-specific properties.
   // "customizations": {},
   // Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
