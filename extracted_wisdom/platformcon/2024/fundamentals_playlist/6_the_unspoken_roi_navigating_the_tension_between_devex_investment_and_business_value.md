@@ -1,11 +1,13 @@
 # SUMMARY
+
 Vas Ragavan discusses the importance of investing in developer experience (DevX) for enhancing engineering effectiveness and business value.
 
-# ORIGINAL TALK
+## ORIGINAL TALK
 
-[The Unspoken Roi: Navigating The Tension Between Devex Investment And Business Value](https://www.youtube.com/watch?v=7c5QygwDT8U)
+[The Unspoken Roi: Navigating The Tension Between Devex Investment And Business Value](https://www.youtube.com/watch?v=7c5QygwDT8U).
 
-# IDEAS
+## IDEAS
+
 - Developer experience (DevX) combines tools, processes, people, and culture for effective software creation.
 - DevX focuses on enablement, not just extracting productivity, enhancing developer creativity and innovation.
 - Good DevX reduces cognitive load, allowing engineers to focus on fewer tasks with better quality.
@@ -34,7 +36,8 @@ Vas Ragavan discusses the importance of investing in developer experience (DevX)
 - DevX investments should be aligned with company goals to ensure maximum impact.
 - Effective DevX reduces the cognitive load on developers, enhancing their creativity and effectiveness.
 
-# INSIGHTS
+## INSIGHTS
+
 - DevX investment transforms developer creativity into business value by reducing cognitive load and enhancing collaboration.
 - Measuring DevX ROI quantitatively links developer productivity to business outcomes, showcasing its strategic importance.
 - Automation and process improvements in DevX can drastically reduce onboarding times and deployment cycles.
@@ -46,7 +49,8 @@ Vas Ragavan discusses the importance of investing in developer experience (DevX)
 - Encouraging open discussions on DevX ROI fosters a culture of learning and strategic improvement.
 - Incremental DevX improvements in efficient systems accumulate, leading to significant business advantages over time.
 
-# QUOTES
+## QUOTES
+
 - "Devx is not about extracting productivity; it is about providing enablement for developers to do more."
 - "Good devx is all about enhancing the developers' joy to create something."
 - "Devx allows focus to remain on business goals and business logic rather than tools and techniques."
@@ -68,7 +72,8 @@ Vas Ragavan discusses the importance of investing in developer experience (DevX)
 - "Quantitative discussions in devx investment highlight the importance of measurable wins for companies."
 - "Automation and process improvements in devx can drastically reduce onboarding times and deployment cycles."
 
-# HABITS
+## HABITS
+
 - Measure DevX ROI to link developer productivity to business goals and outcomes.
 - Align DevX investments with business objectives for maximum impact and growth.
 - Encourage open discussions on DevX ROI to foster learning and strategic improvement.
@@ -85,7 +90,8 @@ Vas Ragavan discusses the importance of investing in developer experience (DevX)
 - Translate DevX wins into meaningful financial numbers for company statements.
 - Create an empowering environment for developers to maximize their creativity and effectiveness.
 
-# FACTS
+## FACTS
+
 - DevX investment can result in a 10x return in cost savings and revenue growth.
 - Reducing CI/CD pipeline times accelerates software testing and deployment processes significantly.
 - Automation in onboarding reduces time from weeks to hours, improving new hire productivity.
@@ -102,7 +108,8 @@ Vas Ragavan discusses the importance of investing in developer experience (DevX)
 - Continuous adaptation in DevX strategies is essential for maintaining relevance and driving long-term success.
 - Aligning DevX investments with business objectives accelerates growth and enhances developer satisfaction.
 
-# REFERENCES
+## REFERENCES
+
 - CI/CD pipelines
 - Automation testing
 - Onboarding processes
@@ -112,10 +119,12 @@ Vas Ragavan discusses the importance of investing in developer experience (DevX)
 - Slack for platform engineering
 - A&L statements
 
-# ONE-SENTENCE TAKEAWAY
+## ONE-SENTENCE TAKEAWAY
+
 Investing in developer experience (DevX) transforms creativity into business value, offering substantial returns and strategic growth.
 
-# RECOMMENDATIONS
+## RECOMMENDATIONS
+
 - Measure DevX ROI to showcase its strategic importance in linking productivity to business outcomes.
 - Align DevX investments with business objectives to accelerate growth and enhance developer satisfaction.
 - Encourage open discussions on DevX ROI to foster a culture of learning and strategic improvement.

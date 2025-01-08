@@ -1,11 +1,13 @@
 # SUMMARY
+
 Brian Finster discusses the importance and limitations of platforms in software development, emphasizing holistic strategies over mere technological upgrades.
 
-# ORIGINAL TALK
+## ORIGINAL TALK
 
-[Why Platforms Don't Matter - Bryan Finster](https://www.youtube.com/watch?v=zk3IDsTkyK0)
+[Why Platforms Don't Matter - Bryan Finster](https://www.youtube.com/watch?v=zk3IDsTkyK0).
 
-# IDEAS
+## IDEAS
+
 - Platforms have become essential for organizations to define standards for security and compliance.
 - Good platforms enable self-service and eliminate handoffs between teams, promoting ownership of quality processes.
 - Misuse of platforms, like automating everything, can lead to faster but riskier deliveries.
@@ -33,7 +35,8 @@ Brian Finster discusses the importance and limitations of platforms in software 
 - Effective use of platforms requires understanding and leveraging their capabilities fully.
 - Holistic strategies in manufacturing and software both require comprehensive changes, not just tool upgrades.
 
-# INSIGHTS
+## INSIGHTS
+
 - Platforms are crucial but can't replace strategic leadership and holistic value delivery approaches.
 - Automation and platforms should not overshadow the importance of understanding and improving work processes.
 - Historical parallels between manufacturing and software highlight the need for strategic, not just technological, change.
@@ -45,7 +48,8 @@ Brian Finster discusses the importance and limitations of platforms in software 
 - Platforms should make mistakes difficult and correct actions easy, promoting effective work processes.
 - Strategic change in work methods is necessary to fully leverage platform capabilities.
 
-# QUOTES
+## QUOTES
+
 - "Platforms become super important over the last 10-15 years."
 - "Self-service helps us eliminate handoffs between teams."
 - "The first acronym I ever learned as a developer was garbage in garbage out."
@@ -62,7 +66,8 @@ Brian Finster discusses the importance and limitations of platforms in software 
 - "Holistic strategies consider the entire value stream, not just isolated productivity improvements."
 - "Platforms should make mistakes difficult and correct actions easy."
 
-# HABITS
+## HABITS
+
 - Understand and leverage platform capabilities fully for maximum advantage.
 - Invest in people and provide them with the best information and tools.
 - Focus on building quality into processes and owning quality outcomes.
@@ -74,7 +79,8 @@ Brian Finster discusses the importance and limitations of platforms in software 
 - Prioritize flexibility and rapid response to changing user needs.
 - Change work methods to leverage platform capabilities effectively.
 
-# FACTS
+## FACTS
+
 - Black & Decker pioneered computerized material resource planning in the 1960s.
 - Silver Bullet Transformations have been used for decades to copy other people's success.
 - Black & Decker's fulfillment time reduced from 12 weeks to one week.
@@ -86,7 +92,8 @@ Brian Finster discusses the importance and limitations of platforms in software 
 - Platforms should make mistakes difficult and correct actions easy.
 - Continuous improvement is essential for effective platform utilization.
 
-# REFERENCES
+## REFERENCES
+
 - Black & Decker's historical case studies from 1964 and 1984.
 - Blog: blog.brianfester.com
 - Defense Unicorns: defenseunicorns.com/careers
@@ -94,10 +101,12 @@ Brian Finster discusses the importance and limitations of platforms in software 
 - Agile manufacturing
 - Just in time inventory management
 
-# ONE-SENTENCE TAKEAWAY
+## ONE-SENTENCE TAKEAWAY
+
 Strategic change, not just platform upgrades, is essential for effective value delivery and organizational success.
 
-# RECOMMENDATIONS
+## RECOMMENDATIONS
+
 - Platforms must be complemented by strategies prioritizing flexibility and rapid response to user needs.
 - Invest in people and provide them with the best information and tools for success.
 - Focus on building quality into processes and owning quality outcomes.

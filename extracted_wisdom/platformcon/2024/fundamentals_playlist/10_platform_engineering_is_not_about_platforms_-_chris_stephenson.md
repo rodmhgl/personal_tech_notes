@@ -1,11 +1,13 @@
-## SUMMARY
+# SUMMARY
+
 Chris Stevenson, CTO of Humanite Tech, discusses platform engineering's focus on delivering commodities, not platforms, contrasting it with DevOps practices.
 
-# ORIGINAL TALK
+## ORIGINAL TALK
 
-[Platform Engineering Is Not About Platforms - Chris Stephenson](https://www.youtube.com/watch?v=uVi8jfuCPw8)
+[Platform Engineering Is Not About Platforms - Chris Stephenson](https://www.youtube.com/watch?v=uVi8jfuCPw8).
 
 ## IDEAS
+
 - Platform engineering is not just about platforms but delivering commodity components and services.
 - Software engineering remains in the master craftsman phase, requiring deep, broad knowledge.
 - Commodification in other industries reduces costs and increases efficiency through standardization.
@@ -34,6 +36,7 @@ Chris Stevenson, CTO of Humanite Tech, discusses platform engineering's focus on
 - Supermarkets as platforms minimize cognitive load by offering diverse commodities in one place.
 
 ## INSIGHTS
+
 - Platform engineering aims to simplify software development through commodification and standardization.
 - Delivering commodity services in software reduces cognitive load and enhances efficiency.
 - Software engineering's master craftsman phase hinders scalability and standardization.
@@ -46,6 +49,7 @@ Chris Stevenson, CTO of Humanite Tech, discusses platform engineering's focus on
 - Platforms, like supermarkets, efficiently deliver diverse commodities, easing consumer burden.
 
 ## QUOTES
+
 - "Platform engineering is not about platforms but delivering commodity components and services."
 - "Software engineering is actually still in the master Craftsman phase."
 - "Commodification reduces costs by scaling and increasing quality through standardization."
@@ -68,6 +72,7 @@ Chris Stevenson, CTO of Humanite Tech, discusses platform engineering's focus on
 - "Commodification in other industries reduces costs and increases efficiency through standardization."
 
 ## HABITS
+
 - Approach software development with a focus on commodification and standardization for efficiency.
 - Utilize cloud services to standardize development processes, reducing complexity.
 - Embrace platform engineering principles to streamline software development tasks.
@@ -85,6 +90,7 @@ Chris Stevenson, CTO of Humanite Tech, discusses platform engineering's focus on
 - Apply commodification principles to tackle broad software development challenges.
 
 ## FACTS
+
 - Software engineering remains in the master craftsman phase, requiring broad, deep knowledge.
 - Commodification in other industries reduces costs and increases efficiency.
 - Commodities are interchangeable goods or services, priced independently of their source.
@@ -102,6 +108,7 @@ Chris Stevenson, CTO of Humanite Tech, discusses platform engineering's focus on
 - Platforms provide essential services, minimizing cognitive load and optimizing daily tasks.
 
 ## REFERENCES
+
 - Andy George's YouTube channel "How to Make Everything"
 - Google Cloud SQL
 - Ivan database service
@@ -110,9 +117,11 @@ Chris Stevenson, CTO of Humanite Tech, discusses platform engineering's focus on
 - Supermarkets as platforms
 
 ## ONE-SENTENCE TAKEAWAY
+
 Platform engineering aims to deliver efficient, standardized commodity components, enhancing software development beyond mere platform creation.
 
 ## RECOMMENDATIONS
+
 - Focus on delivering commodity components, not just platforms, in software development.
 - Prioritize commodification and standardization for efficiency in engineering practices.
 - Use cloud services to standardize and simplify development processes.
