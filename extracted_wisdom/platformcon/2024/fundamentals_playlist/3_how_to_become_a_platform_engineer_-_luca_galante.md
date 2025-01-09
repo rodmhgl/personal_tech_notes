@@ -98,12 +98,12 @@ The speaker at Platform Con 2024 introduces platform engineering, its significan
 
 ## REFERENCES
 
-- internaldeveloperplatform.org
-- Team Topologies by Matthew Skelton and Manuel Pais
-- platformengineering.org
-- YouTube channel for platform engineering 101 series
-- CNCF working group's platform engineering maturity model
-- Platform Engineering Fundamentals Course
+- [internaldeveloperplatform.org](https://internaldeveloperplatform.org)
+- [Team Topologies by Matthew Skelton and Manuel Pais](https://teamtopologies.com/book)
+- [platformengineering.org](https://platformengineering.org)
+- [YouTube channel for platform engineering 101 series](https://www.youtube.com/playlist?list=PLR74Ng-6aEfBNanLoFBjzhdpCFzfyHwHa)
+- [CNCF working group's platform engineering maturity model](https://tag-app-delivery.cncf.io/whitepapers/platform-eng-maturity-model/)
+- [Platform Engineering Fundamentals Course](https://platformengineering.org/fundamentals)
 
 ## ONE-SENTENCE TAKEAWAY
 
