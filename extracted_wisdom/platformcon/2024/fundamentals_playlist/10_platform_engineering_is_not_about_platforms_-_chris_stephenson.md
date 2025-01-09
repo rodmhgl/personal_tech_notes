@@ -109,12 +109,9 @@ Chris Stevenson, CTO of Humanite Tech, discusses platform engineering's focus on
 
 ## REFERENCES
 
-- Andy George's YouTube channel "How to Make Everything"
-- Google Cloud SQL
-- Ivan database service
-- Kubernetes services
-- Platformengineering.org
-- Supermarkets as platforms
+- [Andy George's YouTube channel "How to Make Everything"](https://www.youtube.com/channel/UCfIqCzQJXvYj9ssCoHq327g)
+- [Google Cloud SQL](https://cloud.google.com/sql)
+- [platformengineering.org](https://platformengineering.org)
 
 ## ONE-SENTENCE TAKEAWAY
 
