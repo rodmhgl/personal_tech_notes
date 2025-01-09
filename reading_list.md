@@ -70,16 +70,23 @@
          - [ ] Supply Chain Compliance
          - [ ] Automation and Tooling
 
+- [ ] Terraform Patterns, Observed
+   - [ ] [Part 1: Module Types](https://medium.com/devoops-discourse/terraform-observed-part-1-module-types-9dec5aa9dc9f)
+   - [ ] [Part 2: Module Arrangement](https://medium.com/devoops-discourse/terraform-observed-part-2-module-arrangement-109d2cf517e1)
+   - [ ] [Part 3: State Misconceptions and Pitfalls](https://medium.com/devoops-discourse/terraform-patterns-observed-part-3-state-misconceptions-pitfalls-e051ca1b7be9)
+   - [ ] [Part 4: State Management](https://medium.com/devoops-discourse/terraform-patterns-observed-part-4-state-management-dccec970f554)
+   - [ ] [Part 5: Logic in Terraform](https://medium.com/devoops-discourse/terraform-patterns-observed-part-5-logic-in-terraform-a0b1207b3a56)
+
 ## 01-13-25
 
-- The 6 Pillars of Platform Engineering
+- [ ] The 6 Pillars of Platform Engineering
    - [ ] [Part 1 — Security](https://thenewstack.io/the-6-pillars-of-platform-engineering-part-1-security/)
    - [ ] [Part 2 — CI/CD & VCS Pipeline](https://thenewstack.io/the-6-pillars-of-platform-engineering-part-2-ci-cd-vcs-pipeline/)
    - [ ] [Part 3 — Provisioning](https://thenewstack.io/the-pillars-of-platform-engineering-part-3-provisioning/)
    - [ ] [Part 4 — Connectivity](https://thenewstack.io/the-pillars-of-platform-engineering-part-4-connectivity/)
    - [ ] [Part 5 — Orchestration](https://thenewstack.io/the-pillars-of-platform-engineering-part-5-orchestration/)
    - [ ] [Part 6 — Observability](https://thenewstack.io/the-pillars-of-platform-engineering-part-6-observability/)
-- Fundamentals of DevOps and Software Delivery
+- [ ] Fundamentals of DevOps and Software Delivery
    - [ ] [An Introduction to DevOps and Software Delivery](https://new.gruntwork.io/fundamentals-of-devops/introduction-to-devops-and-software-delivery#how_to_deploy_your_app)
    - [ ] [How to Manage Your Infrastructure as Code](https://new.gruntwork.io/fundamentals-of-devops/how-to-manage-your-infrastructure-as-code#how_to_manage_your_infra_as_code)
    - [ ] [How to Deploy Your Apps](https://new.gruntwork.io/fundamentals-of-devops/deploying-apps-orchestration-vms-containers-serverless#how_to_deploy_many_apps)
