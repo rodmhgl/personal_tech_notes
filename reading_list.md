@@ -1,0 +1,92 @@
+# Reading List
+
+## 01-06-25
+
+- Kubestronaut Prep
+   - [ ] [KodeKloud KCSA](https://learn.kodekloud.com/courses/kubernetes-and-cloud-native-security-associate-kcsa)
+      - [X] Course Introduction
+      - [X] Overview of Cloud Native Security
+         - [X] The Attack
+         - [X] The 4Cs of Cloud Native Security
+         - [X] Cloud Provider Security
+         - [X] Infrastructure Security
+         - [X] Kubernetes Isolation Techniques
+         - [X] Artifact Repository and Image Security
+         - [X] Workload and Application Code Security
+      - [X] Kubernetes Cluster Component Security
+         - [X] API Server
+         - [X] Securing Controller Manager & Scheduler
+         - [X] Securing the Kubelet
+         - [X] Securing Container Runtime
+         - [X] Securing Kube Proxy
+         - [X] Pod Security
+         - [X] Securing Etcd
+         - [X] Securing Container Networking
+         - [X] Client Security - kubectl proxy port forward
+         - [X] Client Security - kubeconfig
+         - [X] Storage
+      - [ ] Kubernetes Security Fundamentals
+         - [X] Pod Security Standards & Pod Security Admissions
+         - [ ] Authentication
+         - [ ] Authorization
+         - [ ] RBAC
+         - [ ] Secrets
+         - [ ] Isolation and Segmentation - Namespace
+         - [ ] Isolation and Segmentation - Resource Quotas & Limits
+         - [ ] Isolation and Segmentation - Security Context
+         - [ ] Audit Logging
+         - [ ] Network Policies
+      - [ ] Kubernetes Threat Model
+         - [ ] Kubernetes Trust Boundaries and Data Flow
+         - [ ] Persistence
+         - [ ] Denial of Service
+         - [ ] Malicious Code Execution
+         - [ ] Compromised Applications in Containers
+         - [ ] Attacker on the Network
+         - [ ] Access to Sensitive Data
+         - [ ] Privilege Escalation
+      - [ ] Platform Security
+         - [ ] Supply Chain Security - Minimize base image footprint
+         - [ ] Supply Chain Security - Scan images for known vulnerabilities
+         - [ ] Image Repository Security
+         - [ ] Observability - Overview
+         - [ ] Observability - Falco Overview and Installation
+         - [ ] Observability - Using Falco to Detect Threats
+         - [ ] Service Mesh - Monolithics vs Microservices
+         - [ ] Service Mesh
+         - [ ] Service Mesh - Istio
+         - [ ] Service Mesh - Security in Istio
+         - [ ] Service Mesh - Istio Security Architecture
+         - [ ] K8s PKI - Certificate Creation
+         - [ ] K8s PKI - View Certificate Details
+         - [ ] Connectivity - TLS Introduction
+         - [ ] Connectivity - TLS Basics
+         - [ ] Connectivity - TLS in Kubernetes
+         - [ ] Connectivity - Mutual TLS
+         - [ ] Admission Controllers
+      - [ ] Compliance and Security Frameworks
+         - [ ] Compliance Frameworks
+         - [ ] Threat Modelling Frameworks
+         - [ ] Supply Chain Compliance
+         - [ ] Automation and Tooling
+
+## 01-13-25
+
+- The 6 Pillars of Platform Engineering
+   - [ ] [Part 1 — Security](https://thenewstack.io/the-6-pillars-of-platform-engineering-part-1-security/)
+   - [ ] [Part 2 — CI/CD & VCS Pipeline](https://thenewstack.io/the-6-pillars-of-platform-engineering-part-2-ci-cd-vcs-pipeline/)
+   - [ ] [Part 3 — Provisioning](https://thenewstack.io/the-pillars-of-platform-engineering-part-3-provisioning/)
+   - [ ] [Part 4 — Connectivity](https://thenewstack.io/the-pillars-of-platform-engineering-part-4-connectivity/)
+   - [ ] [Part 5 — Orchestration](https://thenewstack.io/the-pillars-of-platform-engineering-part-5-orchestration/)
+   - [ ] [Part 6 — Observability](https://thenewstack.io/the-pillars-of-platform-engineering-part-6-observability/)
+- Fundamentals of DevOps and Software Delivery
+   - [ ] [An Introduction to DevOps and Software Delivery](https://new.gruntwork.io/fundamentals-of-devops/introduction-to-devops-and-software-delivery#how_to_deploy_your_app)
+   - [ ] [How to Manage Your Infrastructure as Code](https://new.gruntwork.io/fundamentals-of-devops/how-to-manage-your-infrastructure-as-code#how_to_manage_your_infra_as_code)
+   - [ ] [How to Deploy Your Apps](https://new.gruntwork.io/fundamentals-of-devops/deploying-apps-orchestration-vms-containers-serverless#how_to_deploy_many_apps)
+   - [ ] [How to Version, Build, and Test Your Code](https://new.gruntwork.io/fundamentals-of-devops/testing-your-systems#how_to_version_build_test)
+   - [ ] [How to Set Up Continuous Integration (CI) and Continuous Delivery (CD)](https://new.gruntwork.io/fundamentals-of-devops/setup-ci-cd#how_to_set_up_ci_cd)
+   - [ ] [How to Work with Multiple Teams and Environments](https://new.gruntwork.io/fundamentals-of-devops/work-with-teams-and-environments#how_to_work_with_multiple_teams)
+   - [ ] [How to Set Up Networking](https://new.gruntwork.io/fundamentals-of-devops/setup-networking-vpc-vpn-dns#how_to_set_up_networking)
+   - [ ] [How to Secure Communication and Storage](https://new.gruntwork.io/fundamentals-of-devops/manage-authentication-authorization-secrets#how_to_manage_auth_and_secrets)
+   - [ ] [How to Store Data](https://new.gruntwork.io/fundamentals-of-devops/store-data-sql-nosql-queues-warehouses-file-stores#how_to_store_data)
+   - [ ] [How to Monitor Your Systems](https://new.gruntwork.io/fundamentals-of-devops/monitor-your-systems-metrics-logs-alerts-observability#how_to_monitor_your_systems)
