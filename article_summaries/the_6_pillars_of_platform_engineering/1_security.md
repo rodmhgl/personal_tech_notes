@@ -7,3 +7,12 @@ As infrastructure becomes increasingly dynamic, companies are shifting from netw
 Leading companies have also adopted “shift-left” security; implementing security controls throughout the software development lifecycle.
 
 This DevSecOps mindset requires tooling decisions that support modern identity-driven security to avoid ticket-driven processes.
+
+## Navigation
+
+- [Security](./1_security.md)
+- [Pipeline](./2_pipeline.md)
+- [Provisioning](./3_provisioning.md)
+- [Connectivity](./4_connectivity.md)
+- [Orchestration](./5_orchestration.md)
+- [Observability](./6_observability.md)

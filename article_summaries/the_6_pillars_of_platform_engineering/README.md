@@ -17,6 +17,8 @@ Building and maintaining a platform involves continuous conversations and buy-in
 
 This set of articles functions as a starting point for those conversations by helping platform teams organize their product around six technical elements or “pillars” of the software delivery process along with the general requirements and workflow for each.
 
+## Navigation
+
 - [Security](./1_security.md)
 - [Pipeline](./2_pipeline.md)
 - [Provisioning](./3_provisioning.md)
