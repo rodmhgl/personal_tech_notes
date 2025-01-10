@@ -47,6 +47,23 @@ Overall, the responsibility of operation of the platform goes to the Platform En
 ## Resources
 
 [Part 1: The Why](./1_the_why.md)
+
 [Part 3: The Implementation](./3_the_implementation.md)
 
 [Platform Engineering: The Big Picture - Pluralsight course by Steve Buchanan](https://www.pluralsight.com/courses/platform-engineering-big-picture)
+
+[Linux Course on FreeCodeCamp](https://www.youtube.com/watch?v=sWbUDq4S6Y8&t=4765s&pp=ygUMbGludXggY291cnNl)
+
+[Server+ (you dont need to get the certification. Its just a good read to get you up to speed)](https://www.amazon.com/CompTIAServer-Certification-Second-SK0005/dp/1260469913/ref=sr_1_2?crid=39LVMMQBDRPEN&keywords=comptia+Server%2B+book&qid=1703940885&sprefix=comptia+server%2B+book%2)
+
+[Networking course for free](https://www.youtube.com/watch?v=H8W9oMNSuwo&list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ)
+
+[Introduction to Programming and Computer Science - Full Course](https://www.youtube.com/watch?v=zOjov-2OZ0E)
+
+[The Self-Taught Cloud Computing Engineer: A comprehensive professional study guide to AWS, Azure, and GCP](https://www.amazon.com/Self-Taught-Cloud-Computing-Engineer-comprehensive/dp/180512370X?ref_=ast_sto_dp)
+
+[The Kubernetes Book: 2024 Edition](https://www.amazon.com/Kubernetes-Book-Version-November-2018-ebook/dp/B072TS9ZQZ/ref=sr_1_1?)
+
+[Kubernetes Course - Full Beginners Tutorial](https://www.youtube.com/watch?v=d6WC5n9G_sM)
+
+[Michael Levan](https://www.linkedin.com/in/michaellevan/)
