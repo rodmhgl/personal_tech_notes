@@ -1,4 +1,8 @@
-# Reading List
+## Personal Tech Notes
+
+A collection of notes (some AI-generated) of talks I've watched, courses I've taken, labs I've done. It's a tech blog without the fancy formatting.
+
+## To-Do Reading List
 
 I always find more articles than I have time to read. This is an attempt to track them and schedule reading by week. All dates approximate and, if we're being realistic, optimistic. 
 
