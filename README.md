@@ -8,11 +8,15 @@ I always find more articles than I have time to read. This is an attempt to trac
 
 ## 01-06-25
 
+- The Platform Engineering Book (gumroad PDF - no longer available standalone, but available as part of [Platform Engineering: From Beginning to End](https://thenjdevopsguy.gumroad.com/l/perealworld))
+   - [X] Part 1: The "Why" [Notes](./book_notes/Michael_Levan_-_The_Platform_Engineering_Book/1_the_why.md) (1/10/25)
+   - [X] Part 2: The "Planning" (12) [Notes](./book_notes/Michael_Levan_-_The_Platform_Engineering_Book/2_the_planning.md) (1/10/25)
+
+- [ ] Complete [GitOps at Scale](https://learning.codefresh.io/course/gitops-scale) course / certification.
+
 - Fabric AI
    - [ ] [Empower Your Everyday: Unlocking the Potential of AI with Fabric](https://www.infralovers.com/blog/2024-06-25-fabric-overview/)
    - [ ] Review web interface feature of [Fabric](https://github.com/danielmiessler/fabric)
-
-- [ ] Complete [GitOps at Scale](https://learning.codefresh.io/course/gitops-scale) course / certification.
 
 - Kubestronaut Prep - KCSA
    - [ ] [KodeKloud KCSA](https://learn.kodekloud.com/courses/kubernetes-and-cloud-native-security-associate-kcsa)
@@ -24,10 +28,6 @@ I always find more articles than I have time to read. This is an attempt to trac
       - [ ] Platform Security
       - [ ] Compliance and Security Frameworks
 
-- The Platform Engineering Book (gumroad PDF - no longer available standalone, but available as part of [Platform Engineering: From Beginning to End](https://thenjdevopsguy.gumroad.com/l/perealworld))
-   - [X] Part 1: The "Why" [Notes](./book_notes/Michael_Levan_-_The_Platform_Engineering_Book/1_the_why.md) (1/10/25)
-   - [X] Part 2: The "Planning" (12) [Notes](./book_notes/Michael_Levan_-_The_Platform_Engineering_Book/2_the_planning.md) (1/10/25)
-
 - Platform Engineering (Physical - O'Reilly - Fournier and Nowland)
    - [ ] Part 1: The What and Why of Platform Engineering (36)
 
@@ -38,14 +38,14 @@ I always find more articles than I have time to read. This is an attempt to trac
       - [ ] [Backstage](https://github.com/Azure-Samples/aks-platform-engineering/blob/main/docs/backstage.md) (LAB)
    - [ ] [Deploying AKS Clusters Using Cluster API provider for Azure (CAPZ) and Helm](https://www.youtube.com/watch?v=ondiKVYZ1W0)
 
+## 01-13-25
+
 - [ ] Terraform Patterns, Observed
    - [ ] [Part 1: Module Types](https://medium.com/devoops-discourse/terraform-observed-part-1-module-types-9dec5aa9dc9f)
    - [ ] [Part 2: Module Arrangement](https://medium.com/devoops-discourse/terraform-observed-part-2-module-arrangement-109d2cf517e1)
    - [ ] [Part 3: State Misconceptions and Pitfalls](https://medium.com/devoops-discourse/terraform-patterns-observed-part-3-state-misconceptions-pitfalls-e051ca1b7be9)
    - [ ] [Part 4: State Management](https://medium.com/devoops-discourse/terraform-patterns-observed-part-4-state-management-dccec970f554)
    - [ ] [Part 5: Logic in Terraform](https://medium.com/devoops-discourse/terraform-patterns-observed-part-5-logic-in-terraform-a0b1207b3a56)
-
-## 01-13-25
 
 - The Platform Engineering Book (gumroad PDF - no longer available standalone, but available as part of [Platform Engineering: From Beginning to End](https://thenjdevopsguy.gumroad.com/l/perealworld))
    - [ ] Part 3: The "Implementation" (LAB) [Notes](./book_notes/Michael_Levan_-_The_Platform_Engineering_Book/3_the_implementation.md)
