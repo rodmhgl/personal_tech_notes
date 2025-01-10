@@ -4,7 +4,9 @@ I always find more articles than I have time to read. This is an attempt to trac
 
 ## 01-06-25
 
-- Kubestronaut Prep
+- [ ] Complete [GitOps at Scale](https://learning.codefresh.io/course/gitops-scale) course / certification.
+
+- Kubestronaut Prep - KCSA
    - [ ] [KodeKloud KCSA](https://learn.kodekloud.com/courses/kubernetes-and-cloud-native-security-associate-kcsa)
       - [X] Course Introduction
       - [X] Overview of Cloud Native Security
