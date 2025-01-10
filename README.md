@@ -1,12 +1,16 @@
-## Personal Tech Notes
+# Personal Tech Notes
 
 A collection of notes (some AI-generated) of talks I've watched, courses I've taken, labs I've done. It's a tech blog without the fancy formatting, organized thoughts, or regard for the reader. :blush:
 
 ## To-Do Reading List
 
-I always find more articles than I have time to read. This is an attempt to track them and schedule reading by week. All dates approximate and, if we're being realistic, optimistic. 
+I always find more articles than I have time to read. This is an attempt to track them and schedule reading by week. All dates approximate and, if we're being realistic, optimistic.
 
 ## 01-06-25
+
+- Fabric AI
+   - [ ] [Empower Your Everyday: Unlocking the Potential of AI with Fabric](https://www.infralovers.com/blog/2024-06-25-fabric-overview/)
+   - [ ] Review web interface feature of [Fabric](https://github.com/danielmiessler/fabric)
 
 - [ ] Complete [GitOps at Scale](https://learning.codefresh.io/course/gitops-scale) course / certification.
 
@@ -21,8 +25,8 @@ I always find more articles than I have time to read. This is an attempt to trac
       - [ ] Compliance and Security Frameworks
 
 - The Platform Engineering Book (gumroad PDF - no longer available standalone, but available as part of [Platform Engineering: From Beginning to End](https://thenjdevopsguy.gumroad.com/l/perealworld))
-   - [X] Part 1: The "Why" (8)
-   - [ ] Part 2: The "Planning" (12)
+   - [X] Part 1: The "Why" [Notes](./book_notes/Michael_Levan_-_The_Platform_Engineering_Book/1_the_why.md) (1/10/25)
+   - [X] Part 2: The "Planning" (12) [Notes](./book_notes/Michael_Levan_-_The_Platform_Engineering_Book/2_the_planning.md) (1/10/25)
 
 - Platform Engineering (Physical - O'Reilly - Fournier and Nowland)
    - [ ] Part 1: The What and Why of Platform Engineering (36)
@@ -44,13 +48,13 @@ I always find more articles than I have time to read. This is an attempt to trac
 ## 01-13-25
 
 - The Platform Engineering Book (gumroad PDF - no longer available standalone, but available as part of [Platform Engineering: From Beginning to End](https://thenjdevopsguy.gumroad.com/l/perealworld))
-   - [ ] Part 3: The "Implementation" (LAB)
+   - [ ] Part 3: The "Implementation" (LAB) [Notes](./book_notes/Michael_Levan_-_The_Platform_Engineering_Book/3_the_implementation.md)
 
 - Platform Engineering (Physical - O'Reilly - Fournier and Nowland)
    - [ ] Part 2: Platform Engineering Practices (180)
       - [ ] Chapter 3: How and When to Get Started (17)
       - [ ] Chapter 4: Building Great Platform Teams (23)
- 
+
 - [ ] The 6 Pillars of Platform Engineering
    - [ ] [Part 1 — Security](https://thenewstack.io/the-6-pillars-of-platform-engineering-part-1-security/)
    - [ ] [Part 2 — CI/CD & VCS Pipeline](https://thenewstack.io/the-6-pillars-of-platform-engineering-part-2-ci-cd-vcs-pipeline/)
@@ -76,14 +80,14 @@ I always find more articles than I have time to read. This is an attempt to trac
    - [ ] Part 2: Platform Engineering Practices (180)
       - [ ] Chapter 5: Platform as a Product (33)
       - [ ] Chapter 6: Operating Platforms (22)
- 
+
 ## 01-27-25
 
 - Platform Engineering (Physical - O'Reilly - Fournier and Nowland)
    - [ ] Part 2: Platform Engineering Practices (180)
       - [ ] Chapter 7: Planning and Delivery (24)
       - [ ] Chapter 8: Rearchitecting Platforms (21)
- 
+
 ## 02-03-25
 
 - Platform Engineering (Physical - O'Reilly - Fournier and Nowland)
@@ -95,7 +99,7 @@ I always find more articles than I have time to read. This is an attempt to trac
       - [ ] Chapter 12: Your Platforms are Trusted (13)
       - [ ] Chapter 13: Your Platforms Managed Complexity (13)
       - [ ] Chapter 14: Your Platforms are Loved (10)
- 
+
 ## 02-10-25
 
 - Platform Engineering (Physical - O'Reilly - Fournier and Nowland)
