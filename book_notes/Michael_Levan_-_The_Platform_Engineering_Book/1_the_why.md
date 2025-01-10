@@ -1,12 +1,12 @@
 # Michael Levan - The Platform Engineering Book - Part 1: The Why
 
-While Platform Engineering is increasing in popularity, it turns out that the majority of people aren't 100% sure what it is. Platform Engineering isn't new, it just hasn't been its own team or focus point. It's oddly in the middle of being an emerging, yet old practice.
+While Platform Engineering is boarding the hype train, the majority of people aren't 100% sure what it is.
 
 Platform Engineering is the creation and management of integrated capabilities that are implemented according to what the platform user needs (the platform user being the internal engineer/developer using the platform) via self-service capabilities.
 
-It is treating internal engineering as a product within itself.
+Platform Engineering isn't new, it just hasn't been its own team or focus point. It's oddly in the middle of being an emerging, yet old practice. It is treating internal engineering as a product within itself.
 
-In a "you-wrote-it-you-run-it" setting, everyone is expected to be an expert in these practices and that's not doable. There must be some type of separation of concern and the ability reduce cognitive load. We need dedicated engineers that are as close to an expert as possible in the engineering stack and the tools associated with them. These engineers are the Platform Engineers.
+In a "you-wrote-it-you-run-it" setting, everyone is expected to be an expert in all areas of the platform and that is simply not possible. There must be some type of separation of concern and the ability reduce cognitive load. We need dedicated engineers that are as close to an expert as possible in the engineering stack and the tools associated with them. These engineers are the Platform Engineers.
 
 It is the Platform Engineers job to be as close to an expert as possible in everything from designing the platform to the creation and management of the platform and ensuring services are running as expected.
 
