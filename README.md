@@ -21,7 +21,7 @@ I always find more articles than I have time to read. This is an attempt to trac
       - [ ] Compliance and Security Frameworks
 
 - The Platform Engineering Book (gumroad PDF - no longer available standalone, but available as part of [Platform Engineering: From Beginning to End](https://thenjdevopsguy.gumroad.com/l/perealworld))
-   - [ ] Part 1: The "Why" (8)
+   - [X] Part 1: The "Why" (8)
    - [ ] Part 2: The "Planning" (12)
 
 - Platform Engineering (Physical - O'Reilly - Fournier and Nowland)
