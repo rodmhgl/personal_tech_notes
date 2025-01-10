@@ -21,3 +21,8 @@ The idea is to hand the internal teams a platform on a golden platter so the onl
 An organization should begin to consider Platform Engineering once internal teams are getting swamped with multiple requests that are pulling them in separate directions and separation of concern questions are coming into play.
 
 Alternatively, consider Platform Engineering simply if you want a dedicated engineering department to develop self-service capabilities.
+
+## Resources
+
+[Part 2: The Planning](./2_the_planning.md)
+[Part 3: The Implementation](./3_the_implementation.md)
