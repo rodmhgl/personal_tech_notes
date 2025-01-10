@@ -15,7 +15,7 @@ I always find more articles than I have time to read. This is an attempt to trac
 - [ ] Complete [GitOps at Scale](https://learning.codefresh.io/course/gitops-scale) course / certification.
 
 - Fabric AI
-   - [X] [Empower Your Everyday: Unlocking the Potential of AI with Fabric](https://www.infralovers.com/blog/2024-06-25-fabric-overview/) [Notes](./article_summaries/empower_your_everyday_unlocking_the_potential_of_ai_with_fabric.md)
+   - [X] ~~[Empower Your Everyday: Unlocking the Potential of AI with Fabric](https://www.infralovers.com/blog/2024-06-25-fabric-overview/) [Notes](./article_summaries/empower_your_everyday_unlocking_the_potential_of_ai_with_fabric.md)~~
    - [ ] Review web interface feature of [Fabric](https://github.com/danielmiessler/fabric)
 
 - Kubestronaut Prep - KCSA
