@@ -74,6 +74,8 @@ I always find more articles than I have time to read. This is an attempt to trac
    - [ ] [How to Store Data](https://new.gruntwork.io/fundamentals-of-devops/store-data-sql-nosql-queues-warehouses-file-stores#how_to_store_data)
    - [ ] [How to Monitor Your Systems](https://new.gruntwork.io/fundamentals-of-devops/monitor-your-systems-metrics-logs-alerts-observability#how_to_monitor_your_systems)
 
+- [ ] Review for possible purchase: [The Kubernetes Book: 2024 Edition](https://www.amazon.com/Kubernetes-Book-Version-November-2018-ebook/dp/B072TS9ZQZ/ref=sr_1_1?)
+
 ## 01-20-25
 
 - Platform Engineering (Physical - O'Reilly - Fournier and Nowland)
