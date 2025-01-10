@@ -1,6 +1,6 @@
 ## Personal Tech Notes
 
-A collection of notes (some AI-generated) of talks I've watched, courses I've taken, labs I've done. It's a tech blog without the fancy formatting.
+A collection of notes (some AI-generated) of talks I've watched, courses I've taken, labs I've done. It's a tech blog without the fancy formatting, organized thoughts, or regard for the reader. :blush:
 
 ## To-Do Reading List
 
