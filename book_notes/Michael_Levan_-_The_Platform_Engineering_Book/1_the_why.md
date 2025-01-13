@@ -24,5 +24,5 @@ Alternatively, consider Platform Engineering simply if you want a dedicated engi
 
 ## Resources
 
-[Part 2: The Planning](./2_the_planning.md)
-[Part 3: The Implementation](./3_the_implementation.md)
+- [Part 2: The Planning](./2_the_planning.md)
+- [Part 3: The Implementation](./3_the_implementation.md)
