@@ -2,20 +2,69 @@
 
 A collection of notes (some AI-generated) of talks I've watched, courses I've taken, labs I've done. It's a tech blog without the fancy formatting, organized thoughts, or regard for the reader. :blush:
 
+## Completed Readings
+
+[Archive](./ARCHIVE.md)
+
 ## To-Do Reading List
 
 I always find more articles than I have time to read. This is an attempt to track them and schedule reading by week. All dates approximate and, if we're being realistic, optimistic.
 
 ## 01-13-25
 
+- The Platform Engineering Book (gumroad PDF - no longer available standalone, but available as part of [Platform Engineering: From Beginning to End](https://thenjdevopsguy.gumroad.com/l/perealworld))
+   - [X] Part 3: The "Implementation" (LAB) [Notes](./book_notes/Michael_Levan_-_The_Platform_Engineering_Book/3_the_implementation.md)
+
+- [X] Review for possible purchase: [The Kubernetes Book: 2024 Edition](https://www.amazon.com/Kubernetes-Book-Version-November-2018-ebook/dp/B072TS9ZQZ/ref=sr_1_1?)
+
+- [ ] Complete [GitOps at Scale](https://learning.codefresh.io/course/gitops-scale) course / certification.
+
 - Kubestronaut Prep - KCSA
    - [ ] [KodeKloud KCSA](https://learn.kodekloud.com/courses/kubernetes-and-cloud-native-security-associate-kcsa)
       - [ ] Kubernetes Security Fundamentals
+         - [X] Pod Security Standards & Pod Security Admissions
+         - [X] Authentication
+         - [ ] Authorization
+         - [ ] RBAC
+         - [ ] Secrets
+         - [ ] Isolation and Segmentation - Namespace
+         - [ ] Isolation and Segmentation - Resource Quotas and Limits
+         - [ ] Isolation and Segmentation - Security Context
+         - [ ] Audit
+         - [ ] Network Policies
       - [ ] Kubernetes Threat Model
+         - [ ] Kubernetes Trust Boundaries and Data Flow
+         - [ ] Persistence
+         - [ ] Denial of Service
+         - [ ] Malicious Code Execution
+         - [ ] Compromised Applications in Containers
+         - [ ] Attacker on the Network
+         - [ ] Access to Sensitive Data
+         - [ ] Privilege Escalation
       - [ ] Platform Security
+         - [ ] Supply Chain Security - Minimize Base Image Footprint
+         - [ ] Supply Chain Security - Scan Images for Known Vulnerabilities
+         - [ ] Image Repository Security
+         - [ ] Observability - Overview
+         - [ ] Observability - Falco Overview and Installation
+         - [ ] Observability - Using Falco to Detect Threats
+         - [ ] Service Mesh - Monolithics vs Microservices
+         - [ ] Service Mesh
+         - [ ] Service Mesh - Istio
+         - [ ] Service Mesh - Security in Istio
+         - [ ] Service Mesh - Isti Security Architecture
+         - [ ] K8s PKI - Certificate Creation
+         - [ ] K8s PKI - View Certificate Details
+         - [ ] Connectivity - TLS Introduction
+         - [ ] Connectivity - TLS Basics
+         - [ ] Connectivity - TLS in Kubernetes
+         - [ ] Connectivity - Mutual TLS
+         - [ ] Admission Controllers
       - [ ] Compliance and Security Frameworks
-
-- [ ] Complete [GitOps at Scale](https://learning.codefresh.io/course/gitops-scale) course / certification.
+         - [ ] Compliance Frameworks
+         - [ ] Threat Modeling Frameworks
+         - [ ] Supply Chain Compliance
+         - [ ] Automation and Tooling
 
 - Fabric AI
    - [ ] Review web interface feature of [Fabric](https://github.com/danielmiessler/fabric)
@@ -23,17 +72,12 @@ I always find more articles than I have time to read. This is an attempt to trac
 - Platform Engineering (Physical - O'Reilly - Fournier and Nowland)
    - [ ] Part 1: The What and Why of Platform Engineering (36)
 
-- The Platform Engineering Book (gumroad PDF - no longer available standalone, but available as part of [Platform Engineering: From Beginning to End](https://thenjdevopsguy.gumroad.com/l/perealworld))
-   - [ ] Part 3: The "Implementation" (LAB) [Notes](./book_notes/Michael_Levan_-_The_Platform_Engineering_Book/3_the_implementation.md)
-
 - aks-platform-engineering
    - [ ] [aks-platform-engineering](https://github.com/Azure-Samples/aks-platform-engineering) (LAB)
       - [ ] [Crossplane or CAPZ?](https://github.com/Azure-Samples/aks-platform-engineering/blob/main/docs/capz-or-crossplane.md)
       - [ ] [Onboard New Dev Team](https://github.com/Azure-Samples/aks-platform-engineering/blob/main/docs/Onboard-New-Dev-Team.md) (LAB)
       - [ ] [Backstage](https://github.com/Azure-Samples/aks-platform-engineering/blob/main/docs/backstage.md) (LAB)
    - [ ] [Deploying AKS Clusters Using Cluster API provider for Azure (CAPZ) and Helm](https://www.youtube.com/watch?v=ondiKVYZ1W0)
-
-- [ ] Review for possible purchase: [The Kubernetes Book: 2024 Edition](https://www.amazon.com/Kubernetes-Book-Version-November-2018-ebook/dp/B072TS9ZQZ/ref=sr_1_1?)
 
 ## 01-20-25
 
@@ -70,6 +114,8 @@ I always find more articles than I have time to read. This is an attempt to trac
       - [ ] Chapter 4: Building Great Platform Teams (23)
 
 ## 01-27-25
+
+- [ ] [CNCF Platform Engineer Maturity Model](https://tag-app-delivery.cncf.io/whitepapers/platform-eng-maturity-model/)
 
 - Platform Engineering (Physical - O'Reilly - Fournier and Nowland)
    - [ ] Part 2: Platform Engineering Practices (180)
