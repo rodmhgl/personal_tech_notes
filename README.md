@@ -19,6 +19,8 @@ I always find more articles than I have time to read. This is an attempt to trac
 
 - [ ] Complete [GitOps at Scale](https://learning.codefresh.io/course/gitops-scale) course / certification.
 
+- [ ] [Continuous Promotion on Kubernetes with GitOps (Kargo)](https://piotrminkowski.com/2025/01/14/continuous-promotion-on-kubernetes-with-gitops/)
+
 - Kubestronaut Prep - KCSA
    - [ ] [KodeKloud KCSA](https://learn.kodekloud.com/courses/kubernetes-and-cloud-native-security-associate-kcsa)
       - [ ] Kubernetes Security Fundamentals
