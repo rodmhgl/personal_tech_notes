@@ -19,6 +19,13 @@ I always find more articles than I have time to read. This is an attempt to trac
 
 - [X] Review for possible purchase: [The Kubernetes Book: 2024 Edition](https://www.amazon.com/Kubernetes-Book-Version-November-2018-ebook/dp/B072TS9ZQZ/ref=sr_1_1?)
 
+- aks-platform-engineering
+   - [X] [aks-platform-engineering](https://github.com/Azure-Samples/aks-platform-engineering) (LAB)
+      - [X] [Crossplane or CAPZ?](https://github.com/Azure-Samples/aks-platform-engineering/blob/main/docs/capz-or-crossplane.md)
+      - [X] [Onboard New Dev Team](https://github.com/Azure-Samples/aks-platform-engineering/blob/main/docs/Onboard-New-Dev-Team.md) (LAB)
+      - [X] [Backstage](https://github.com/Azure-Samples/aks-platform-engineering/blob/main/docs/backstage.md) (LAB)
+   - [X] [Deploying AKS Clusters Using Cluster API provider for Azure (CAPZ) and Helm](https://www.youtube.com/watch?v=ondiKVYZ1W0)
+
 - [ ] Complete [GitOps at Scale](https://learning.codefresh.io/course/gitops-scale) course / certification.
 
 - Piotr Minkowski ArgoCD Writings
@@ -81,13 +88,6 @@ I always find more articles than I have time to read. This is an attempt to trac
 
 - Platform Engineering (Physical - O'Reilly - Fournier and Nowland)
    - [ ] Part 1: The What and Why of Platform Engineering (36)
-
-- aks-platform-engineering
-   - [X] [aks-platform-engineering](https://github.com/Azure-Samples/aks-platform-engineering) (LAB)
-      - [X] [Crossplane or CAPZ?](https://github.com/Azure-Samples/aks-platform-engineering/blob/main/docs/capz-or-crossplane.md)
-      - [X] [Onboard New Dev Team](https://github.com/Azure-Samples/aks-platform-engineering/blob/main/docs/Onboard-New-Dev-Team.md) (LAB)
-      - [X] [Backstage](https://github.com/Azure-Samples/aks-platform-engineering/blob/main/docs/backstage.md) (LAB)
-   - [X] [Deploying AKS Clusters Using Cluster API provider for Azure (CAPZ) and Helm](https://www.youtube.com/watch?v=ondiKVYZ1W0)
 
 ## 01-20-25
 
