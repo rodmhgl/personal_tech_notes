@@ -1,6 +1,6 @@
 # Backstage is not your platform - PlatformEngineering.org (Humanitec) Webinar
 
-*Notes AI-generated from a combination of the YouTube transcript and my previous notes*
+*Notes are human-massaged, AI-generated notes created from a combination of the YouTube transcript and my previous notes taken during the webinar*
 
 ## Key Message
 
