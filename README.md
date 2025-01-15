@@ -12,6 +12,8 @@ I always find more articles than I have time to read. This is an attempt to trac
 
 ## 01-13-25
 
+- [ ] [Microsoft Platform Engineering Guide](https://learn.microsoft.com/en-us/platform-engineering/) - Lots of interesting stuff here
+
 - [X] Backstage is not your platform (Humanitec/Platform Engineering Webinar)
 
 - The Platform Engineering Book (gumroad PDF - no longer available standalone, but available as part of [Platform Engineering: From Beginning to End](https://thenjdevopsguy.gumroad.com/l/perealworld))
