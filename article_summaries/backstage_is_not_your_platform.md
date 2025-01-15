@@ -1,5 +1,7 @@
 # Backstage is not your platform - PlatformEngineering.org (Humanitec) Webinar
 
+*Notes AI-generated from a combination of the YouTube transcript and my previous notes*
+
 ## Key Message
 
 - Backstage is a good frontend for platforms but should be treated as just that - a frontend
