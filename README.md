@@ -28,7 +28,7 @@ I always find more articles than I have time to read. This is an attempt to trac
       - [X] [Backstage](https://github.com/Azure-Samples/aks-platform-engineering/blob/main/docs/backstage.md) (LAB)
    - [X] [Deploying AKS Clusters Using Cluster API provider for Azure (CAPZ) and Helm](https://www.youtube.com/watch?v=ondiKVYZ1W0)
 
-- [ ] Complete [GitOps at Scale](https://learning.codefresh.io/course/gitops-scale) course / certification.
+- [X] Complete [GitOps at Scale](https://learning.codefresh.io/course/gitops-scale) course / certification.
 
 - Piotr Minkowski ArgoCD Writings
    - [ ] [Continuous Promotion on Kubernetes with GitOps (Kargo)](https://piotrminkowski.com/2025/01/14/continuous-promotion-on-kubernetes-with-gitops/)
