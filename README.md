@@ -10,25 +10,9 @@ A collection of notes (some AI-generated) of talks I've watched, courses I've ta
 
 I always find more articles than I have time to read. This is an attempt to track them and schedule reading by week. All dates approximate and, if we're being realistic, optimistic.
 
-## 01-13-25
+## 01-20-25
 
 - [ ] [Microsoft Platform Engineering Guide](https://learn.microsoft.com/en-us/platform-engineering/) - Lots of interesting stuff here
-
-- [X] Backstage is not your platform (Humanitec/Platform Engineering Webinar)
-
-- The Platform Engineering Book (gumroad PDF - no longer available standalone, but available as part of [Platform Engineering: From Beginning to End](https://thenjdevopsguy.gumroad.com/l/perealworld))
-   - [X] Part 3: The "Implementation" (LAB) [Notes](./book_notes/Michael_Levan_-_The_Platform_Engineering_Book/3_the_implementation.md)
-
-- [X] Review for possible purchase: [The Kubernetes Book: 2024 Edition](https://www.amazon.com/Kubernetes-Book-Version-November-2018-ebook/dp/B072TS9ZQZ/ref=sr_1_1?)
-
-- aks-platform-engineering
-   - [X] [aks-platform-engineering](https://github.com/Azure-Samples/aks-platform-engineering) (LAB)
-      - [X] [Crossplane or CAPZ?](https://github.com/Azure-Samples/aks-platform-engineering/blob/main/docs/capz-or-crossplane.md)
-      - [X] [Onboard New Dev Team](https://github.com/Azure-Samples/aks-platform-engineering/blob/main/docs/Onboard-New-Dev-Team.md) (LAB)
-      - [X] [Backstage](https://github.com/Azure-Samples/aks-platform-engineering/blob/main/docs/backstage.md) (LAB)
-   - [X] [Deploying AKS Clusters Using Cluster API provider for Azure (CAPZ) and Helm](https://www.youtube.com/watch?v=ondiKVYZ1W0)
-
-- [X] Complete [GitOps at Scale](https://learning.codefresh.io/course/gitops-scale) course / certification.
 
 - Piotr Minkowski ArgoCD Writings
    - [ ] [Continuous Promotion on Kubernetes with GitOps (Kargo)](https://piotrminkowski.com/2025/01/14/continuous-promotion-on-kubernetes-with-gitops/)
@@ -90,8 +74,6 @@ I always find more articles than I have time to read. This is an attempt to trac
 
 - Platform Engineering (Physical - O'Reilly - Fournier and Nowland)
    - [ ] Part 1: The What and Why of Platform Engineering (36)
-
-## 01-20-25
 
 - [ ] Terraform Patterns, Observed
    - [ ] [Part 1: Module Types](https://medium.com/devoops-discourse/terraform-observed-part-1-module-types-9dec5aa9dc9f)
