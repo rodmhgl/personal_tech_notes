@@ -12,6 +12,8 @@ I always find more articles than I have time to read. This is an attempt to trac
 
 ## 01-20-25
 
+- [ ] [Nginx Ingress Controller Mistakes](https://www.f5.com/company/blog/nginx/avoiding-top-10-nginx-configuration-mistakes)
+
 - [ ] [Microsoft Platform Engineering Guide](https://learn.microsoft.com/en-us/platform-engineering/) - Lots of interesting stuff here
 
 - Piotr Minkowski ArgoCD Writings
