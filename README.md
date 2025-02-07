@@ -10,8 +10,13 @@ A collection of notes (some AI-generated) of talks I've watched, courses I've ta
 
 I always find more articles than I have time to read. This is an attempt to track them and schedule reading by week. All dates approximate and, if we're being realistic, optimistic.
 
-## 01-20-25
+## 02-03-25
 
+Had an idea of how I wanted to revamp this which led to a delay in updating. Let's resume. 
+
+- [ ] [Httpbin](https://httpbin.org/) is an open-source service that allows users to make and inspect HTTP requests and responses. It's a popular tool for developers to test and debug HTTP clients and libraries.
+
+- [ ] Luca Galante Platform Engineering Course on Udemy
 - [ ] [Nginx Ingress Controller Mistakes](https://www.f5.com/company/blog/nginx/avoiding-top-10-nginx-configuration-mistakes)
 
 - [ ] [Microsoft Platform Engineering Guide](https://learn.microsoft.com/en-us/platform-engineering/) - Lots of interesting stuff here
@@ -109,16 +114,12 @@ I always find more articles than I have time to read. This is an attempt to trac
       - [ ] Chapter 3: How and When to Get Started (17)
       - [ ] Chapter 4: Building Great Platform Teams (23)
 
-## 01-27-25
-
 - [ ] [CNCF Platform Engineer Maturity Model](https://tag-app-delivery.cncf.io/whitepapers/platform-eng-maturity-model/)
 
 - Platform Engineering (Physical - O'Reilly - Fournier and Nowland)
    - [ ] Part 2: Platform Engineering Practices (180)
       - [ ] Chapter 5: Platform as a Product (33)
       - [ ] Chapter 6: Operating Platforms (22)
-
-## 02-03-25
 
 - Platform Engineering (Physical - O'Reilly - Fournier and Nowland)
    - [ ] Part 2: Platform Engineering Practices (180)
