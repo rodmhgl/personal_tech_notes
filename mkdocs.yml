@@ -1,0 +1,52 @@
+site_name: Personal Tech Notes
+site_author: Rod Stewart
+site_description: Small site to track intentional readings throughout the year
+repo_name: rodmhgl/personal_tech_notes
+repo_url: https://github.com/rodmhgl/personal_tech_notes
+copyright: Rod Stewart
+
+plugins: 
+  - search
+theme:
+  name: readthedocs
+  # logo: assets/logo.png
+  # favicon: assets/favicon.png
+  icon:
+    repo: fontawesome/brands/github
+  features:
+    - content.action.edit
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.code.annotate
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.indexes
+    - navigation.expand
+    - navigation.top
+    - navigation.sections
+    - navigation.tabs
+    - toc.integrate
+    - toc.follow
+  palette:
+    - scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Dark Mode
+    - scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Light Mode
+validation:
+  omitted_files: warn
+  absolute_links: warn  # Or 'relative_to_docs' - new in MkDocs 1.6
+  unrecognized_links: warn
+  anchors: warn  # New in MkDocs 1.6  
+nav:
+  - Home: index.md
+  - About: about.md
+  - Archive: archive.md
+  - Notes - The Platform Engineering Book: book_notes/Michael_Levan_-_The_Platform_Engineering_Book/1_the_why.md
+  - Notes - Backstage is not your platform: article_summaries/backstage_is_not_your_platform.md
+  - Notes - Unlocking the Potential of AI with Fabric: article_summaries/empower_your_everyday_unlocking_the_potential_of_ai_with_fabric.md
+  - Notes - What is a Platform Anyway?: article_summaries/what_is_a_platform_anyway.md
