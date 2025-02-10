@@ -10,9 +10,11 @@ A collection of notes (some AI-generated) of talks I've watched, courses I've ta
 
 I always find more articles than I have time to read. This is an attempt to track them and schedule reading by week. All dates approximate and, if we're being realistic, optimistic.
 
-## 02-03-25
+## 02-10-25
 
 Had an idea of how I wanted to revamp this which led to a delay in updating. Let's resume. 
+
+- [ ] [Argo CAPA study guide](https://paulyu.dev/article/capa-study-guide/)
 
 - [ ] [Httpbin](https://httpbin.org/) is an open-source service that allows users to make and inspect HTTP requests and responses. It's a popular tool for developers to test and debug HTTP clients and libraries.
 
@@ -125,8 +127,6 @@ Had an idea of how I wanted to revamp this which led to a delay in updating. Let
    - [ ] Part 2: Platform Engineering Practices (180)
       - [ ] Chapter 7: Planning and Delivery (24)
       - [ ] Chapter 8: Rearchitecting Platforms (21)
-
-## 02-10-25
 
 - Platform Engineering (Physical - O'Reilly - Fournier and Nowland)
    - [ ] Part 2: Platform Engineering Practices (180)
